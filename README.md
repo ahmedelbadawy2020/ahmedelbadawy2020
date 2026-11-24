@@ -1,4 +1,4 @@
-# Hi, I'm Ahmed Elbadawy 👋
+# Hi, I'm Ahmed Elbadawy
 
 **AI Product Owner · ML, LLM and platform products in regulated industries** · Madrid, Spain
 
